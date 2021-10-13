@@ -30,6 +30,8 @@ body {
   border-top-right-radius: 100px;
   border-bottom-right-radius: 100px;
   border-bottom-left-radius: 100px;
+
+  filter: drop-shadow(10px 10px 10px #08285a);
 }
 
 .login input[type="text"],
