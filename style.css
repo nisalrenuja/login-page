@@ -1,7 +1,8 @@
 body {
   background-color: black;
   color: black;
-  font-family: "Candara";
+  font-family: "inter";
+  font-size: "20px";
 }
 
 .login > h1 {
